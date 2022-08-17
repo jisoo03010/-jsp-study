@@ -1,0 +1,25 @@
+@charset "UTF-8";
+*{margin:0; padding:0;}
+header{width:100vw; height:100px; background-color: #c7d8de; text-align: center; line-height: 100px;}
+nav{width:100vw; height:40px; background-color: black; line-height: 40px;}
+nav>ul{display:flex;}
+nav>ul>li{width:120x; text-align: center; color: white; margin-right: 30px;}
+
+a{text-decoration: none; color: inherit;}
+ul,li{list-style: none;}
+
+#indexSection{width: 100vw; height:753px;}
+#indexSection>h3{text-align: center;}
+#section>h3{text-align: center;}
+#bold{font-weight: bold;}
+table{margin: 200px auto; }
+#section{margin: 0 auto; width: 100vw; height:753px;}
+footer{width:100vw; height:30px;  background-color: #c7d8de;  line-height: 30px; position: relative; bottom:0; text-align: center;}
+
+
+td{text-align: center;}
+
+
+
+
+
