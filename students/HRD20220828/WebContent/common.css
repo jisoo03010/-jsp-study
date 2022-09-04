@@ -1,0 +1,17 @@
+@charset "UTF-8";
+*{margin:0; padding: 0;}
+a{text-decoration: none; color: inherit;}
+ul, li{list-style: none;}
+
+header{text-align: center; width:100vw; height: 100px; line-height: 100px; background-color: #408080;}
+
+section{width:100vw; height: 750px; background-color: #d9d9d9;}
+section > h3{text-align: center;}
+
+nav{width:100vw; height:30px; line-height: 30px; }
+nav>ul{display: flex;}
+nav>ul>li{margin-left: 35px; }
+
+
+
+footer{text-align: center; width:100vw; height: 40px; line-height: 40px; background-color: #8080c0;}
